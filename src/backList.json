@@ -1,0 +1,97 @@
+{
+    "backList": [
+        {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      },
+      {
+        "src":"./images/back.png",
+        "type": "image/png",
+        "sizes": "192x278"
+      }
+    ],
+     "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
